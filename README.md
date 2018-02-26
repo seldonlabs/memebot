@@ -1,2 +1,7 @@
 # memebot
-A stupid simple bot for discord
+A bot that will give you memes for discord, built for the 64th Kitsune Wanderers
+
+# Usage
+Clone this repo and add your secret token that you can obtaion from discord: https://discordapp.com/developers/applications/me
+
+Some more instructions for people that haven't done this before: https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token

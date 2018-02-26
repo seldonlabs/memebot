@@ -1,0 +1,28 @@
+{
+  "name": "memebot",
+  "version": "0.1.0",
+  "description": "This bot is just a meme",
+  "main": "bot.js",
+  "engines": {
+    "node": "~8.9.x",
+    "npm": "~5.5.x"
+  },
+  "scripts": {
+    "start": "node ./bot.js",
+    "test": ""
+  },
+  "author": "Marcus Seldon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "~11.2.x",
+    "winston": "~2.4.x"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
