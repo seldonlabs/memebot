@@ -1,5 +1,5 @@
 # memebot
-A bot that will give you memes, for Discord! built for the 64th Kitsune Wanderers.
+A bot that will give you memes, for Discord!
 
 # Usage
 Clone this repo and add your secret token that you can obtain from Discord: https://discordapp.com/developers/applications/me
